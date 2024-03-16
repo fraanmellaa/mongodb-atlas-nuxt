@@ -1,7 +1,16 @@
 {
   "name": "mongodb-atlas-nuxt",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "MongoDB Atlas Handler",
+  "author": "Fran Mella @fraanmellaa",
+  "repository": "https://github.com/fraanmellaa/mongodb-atlas-nuxt",
+  "keywords": [
+    "mongodb",
+    "atlas",
+    "nuxt",
+    "handler",
+    "cloudflare"
+  ],
   "license": "MIT",
   "type": "module",
   "exports": {
